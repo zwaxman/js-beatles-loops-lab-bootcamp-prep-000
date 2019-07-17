@@ -14,4 +14,5 @@ function johnLennonFacts(facts){
     newArr.push(`${facts[i]}!!!`)
     i++
   }
+  return newArr
 }
